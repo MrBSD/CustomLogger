@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLogger", "CustomLogger\CustomLogger.csproj", "{F218319D-E3C4-4F9A-8F83-9325B546A580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{9011855C-E979-4E36-8E98-ED919B69CC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F218319D-E3C4-4F9A-8F83-9325B546A580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F218319D-E3C4-4F9A-8F83-9325B546A580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F218319D-E3C4-4F9A-8F83-9325B546A580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F218319D-E3C4-4F9A-8F83-9325B546A580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9011855C-E979-4E36-8E98-ED919B69CC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9011855C-E979-4E36-8E98-ED919B69CC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9011855C-E979-4E36-8E98-ED919B69CC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9011855C-E979-4E36-8E98-ED919B69CC55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFAA3332-8D58-4098-AB6C-3B1D7641A29A}
+	EndGlobalSection
+EndGlobal
